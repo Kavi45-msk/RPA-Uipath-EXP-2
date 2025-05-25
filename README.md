@@ -1,7 +1,7 @@
 # RPA-Uipath-EXP-2
 Conditional Statement
-## Name: Hafeezul Deen S
-## Roll No.: 212223220028
+## Name: Kavi M S
+## Roll No.: 212223220044
 # AIM:
 To develop a UiPath workflow that takes a user’s name as input and displays a custom welcome message using a Switch case. If the input is "RAM", it should display "Welcome Mr. Ramachandran", else display different messages for each name, and a default message for other names.
 
